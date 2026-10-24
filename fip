@@ -20265,3 +20265,4 @@ local function createBundledUI()
     end)()
     return a
 end
+return createBundledUI()
